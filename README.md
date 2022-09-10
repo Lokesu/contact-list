@@ -1,3 +1,9 @@
+Fetched and shows users from the api - https://jsonplaceholder.typicode.com/users
+Added a contact, make a POST call to the above url and saved the contact in react state. (This will be a dummy request).
+Update and delete a contact. (Again this is a dummy call).
+
+This is a react app made using HTML,CSS and JS.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
