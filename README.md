@@ -4,6 +4,8 @@ Update and delete a contact. (Again this is a dummy call).
 
 This is a react app made using HTML,CSS and JS.
 
+Hosted page link : https://effortless-meringue-c65d7a.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
